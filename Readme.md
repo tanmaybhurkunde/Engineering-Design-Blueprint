@@ -1,4 +1,4 @@
-# Engineering Design Case Studies
+# Engineering Design Case Studies 
 
 A structured, interview-focused learning repository that reverse-engineers how real-world products (Twitter, YouTube, Netflix, Uber, Amazon, etc.) are built — from product requirements down to production-grade data engineering implementation details.
 
