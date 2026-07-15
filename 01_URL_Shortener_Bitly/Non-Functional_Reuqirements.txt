@@ -1,0 +1,10 @@
+| Requirement     | Why                         | Target                  |
+| --------------- | --------------------------- | ----------------------- |
+| Availability    | Redirects should not fail   | 99.99%                  |
+| Latency         | Redirects should be fast    | <50 ms                  |
+| Scalability     | Handle traffic growth       | 50k Peak RPS            |
+| Durability      | Never lose mappings         | 99.999999%              |
+| Security        | Prevent malicious redirects | HTTPS + Validation      |
+| Reliability     | No duplicate short IDs      | Zero collisions         |
+| Maintainability | Easy deployments            | Independent services    |
+| Observability   | Detect failures quickly     | Logs + Metrics + Alerts |
