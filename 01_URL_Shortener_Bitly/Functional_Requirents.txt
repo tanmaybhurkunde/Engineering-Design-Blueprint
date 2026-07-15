@@ -1,0 +1,18 @@
+1. MVP : 
+
+Redirect URL ✅
+Shorten URL ✅
+
+2. Should Have :
+
+Expiration
+User Authentication (optional)
+Custom URL
+
+3. Nice to Have : 
+
+Notification before deletion
+QR Code generation
+Custom URL length
+Analytics Dashboard
+Bulk URL shortening
